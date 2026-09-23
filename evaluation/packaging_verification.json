@@ -1,0 +1,11 @@
+{
+  "n": 500,
+  "standard_mlx_lm_load_passed": true,
+  "argmax_agreement_with_verified_mlx": 1.0,
+  "max_logit_difference": 0.0,
+  "max_probability_difference": 0.0,
+  "calibration_reused_after_exact_packaging_parity": true,
+  "passed": true,
+  "source": "verified HF-BF16 MLX client",
+  "target": "native MLX weight names and layouts"
+}
